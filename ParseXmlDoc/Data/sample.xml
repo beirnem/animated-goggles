@@ -38,7 +38,6 @@
         </Reference>
         <Country CodeType="NUM" CountryType="Destination">IE</Country>
         <Country CodeType="NUM" CountryType="Dispatch">CN</Country>
-
       </DeclarationHeader>
     </Declaration>
   </DeclarationList>
